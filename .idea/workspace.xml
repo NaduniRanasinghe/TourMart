@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39b6126c-c71f-43a9-ae46-8f73553f9855" name="Default" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="" afterPath="$PROJECT_DIR$/src/images/image3.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
@@ -17,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -55,6 +59,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,6 +73,9 @@
             <state relative-caret-position="323">
               <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
             </state>
           </provider>
         </entry>
@@ -76,12 +84,16 @@
         <entry file="file://$PROJECT_DIR$/src/Components/TourGuideRegistration.js">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="378">
               <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
 =======
             <state relative-caret-position="170">
               <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -92,6 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="-273">
               <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -116,13 +129,20 @@
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/GuideRegistration.js">
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
@@ -146,6 +166,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -167,6 +188,9 @@
             <state relative-caret-position="345">
               <caret line="58" column="32" lean-forward="true" selection-end-line="68" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -194,6 +218,7 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/Login.js" />
 =======
         <option value="$PROJECT_DIR$/src/App.js" />
@@ -203,6 +228,9 @@
         <option value="$PROJECT_DIR$/src/pages/AccomodationRegistration.js" />
         <option value="$PROJECT_DIR$/src/pages/SignInForm.js" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
       </list>
     </option>
   </component>
@@ -293,6 +321,7 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="8269000" />
   </component>
   <component name="ToolWindowManager">
@@ -344,6 +373,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
     </layout>
     <layout-to-restore>
       <window_info id="npm" order="0" side_tool="true" />
@@ -425,6 +457,7 @@
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="63">
           <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="29" />
           <folding />
@@ -435,6 +468,9 @@
             <element signature="e#0#41#0" expanded="true" />
           </folding>
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
         </state>
       </provider>
     </entry>
@@ -449,6 +485,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -460,6 +497,9 @@
     <entry file="file://$PROJECT_DIR$/src/pages/SignInForm.js">
 =======
     <entry file="file://$PROJECT_DIR$/src/pages/GuideRegistration.js">
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
@@ -469,6 +509,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/ServiceProviders.js">
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
       <provider selected="true" editor-type-id="text-editor">
@@ -505,6 +546,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/AccomodationRegistration.js">
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
@@ -514,6 +558,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/images/image1.jpg">
       <provider selected="true" editor-type-id="images">
@@ -558,12 +603,16 @@
         <state relative-caret-position="345">
           <caret line="25" column="21" lean-forward="true" selection-end-line="35" selection-end-column="21" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,6 +640,9 @@
         <state relative-caret-position="433">
           <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
 >>>>>>> 5a1dde741778d1c7a8ff0c090ae7ba7fbf821d6e
+=======
+
+>>>>>>> c21f64f0ea29194ec777a29898013d65ccc70ae6
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
