@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
+
 class SignInForm extends Component {
     constructor() {
         super();
@@ -30,11 +31,15 @@ class SignInForm extends Component {
         console.log('The form was submitted with the following data:');
         console.log(this.state);
     }
+    routeChange() {
+        let path = `C:\\Users\\NADUNI RANASINGHE\\WebstormProjects\\smarttour\\src\\pages\\AccomodationRegistration.js`;
+        this.props.history.push(path);
+    }
 
     render() {
         return (
             <div className="FormCenter">
-                <form onSubmit={this.handleSubmit} className="FormFields" onSubmit={this.handleSubmit}>
+                <form onSubmit={this.routeChange} className="FormFields" onSubmit={this.routeChange}>
                     <div className="FormField">
                         <label className="FormField__Label" htmlFor="email">E-Mail Address</label>
                         <input type="email" id="email" className="FormField__Input" placeholder="Enter your email" name="email" value={this.state.email} onChange={this.handleChange} />

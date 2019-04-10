@@ -1,22 +1,17 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link, NavLink } from 'react-router-dom';
-import SignUpForm from './pages/SignUpForm';
-import SignInForm from './pages/SignInForm';
-import logo1 from './images/image3.png';
+import GuideRegistration from './pages/GuideRegistration';
+import AccomodationRegistration from './pages/AccomodationRegistration';
 
 import './App.css';
+import GuideRegistration from "./pages/GuideRegistration";
 
-class Login extends Component {
+class ServiceProviders extends Component {
     render() {
         return (
             <Router basename="/TourMart.lk/">
                 <div className="App">
-                    <div className="App__Aside">
-                        <div className="App_Inside1">
-
-                                <img src={logo1} alt="Logo1" />;
-                        </div>
-                    </div>
+                    <div className="App__Aside"></div>
                     <div className="App__Form">
                         <div className="PageSwitcher">
                             <NavLink to="/sign-in" activeClassName="PageSwitcher__Item--Active" className="PageSwitcher__Item">Sign In</NavLink>
@@ -27,9 +22,9 @@ class Login extends Component {
                             <NavLink to="/sign-in" activeClassName="FormTitle__Link--Active" className="FormTitle__Link">Sign In</NavLink> or <NavLink exact to="/" activeClassName="FormTitle__Link--Active" className="FormTitle__Link">Sign Up</NavLink>
                         </div>
 
-                        <Route exact path="/" component={SignUpForm}>
+                        <Route exact path="/" component={GuideRegistration}>
                         </Route>
-                        <Route path="/sign-in" component={SignInForm}>
+                        <Route path="/sign-in" component={AccomodationRegistration}>
                         </Route>
                     </div>
 
@@ -39,4 +34,4 @@ class Login extends Component {
     }
 }
 
-export default Login;
+export default ServiceProviders;

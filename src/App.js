@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import { HashRouter as Router, Route, Link, NavLink } from 'react-router-dom';
-import SignUpForm from './pages/SignUpForm';
-import SignInForm from './pages/SignInForm';
+
 
 import './App.css';
 import Login from "./Login";
+import TourGuideRegistration from "./Components/TourGuideRegistration";
 
 class App extends Component {
     render() {
@@ -12,7 +11,9 @@ class App extends Component {
 
             <div className="container">
                 <Login/>
+
             </div>
+
 
         );
     }
