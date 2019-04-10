@@ -1,22 +1,23 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, NavLink } from 'react-router-dom';
-import Registration from './pages/Registration';
+import Availableaccomadation from './pages/Availableaccomadation';
 
-import './App2.css';
+import './App4.css';
 
-class RegistratinForm extends Component {
+class AvailableAccomadation extends Component {
     render() {
         return (
 
             <Router basename="/TourMartregistration.lk/">
+
                 <div className="App">
 
                     <div className="App__Form">
-
+                        <h1>Available Accomadations</h1>
                         <div className="FormTitle">
                             <NavLink exact to="/" activeClassName="FormTitle__Link--Active" className="FormTitle__Link"></NavLink>
                         </div>
-                        <Route exact path="/" component={Registration}>
+                        <Route exact path="/" component={Availableaccomadation}>
                         </Route>
 
                     </div>
@@ -27,4 +28,4 @@ class RegistratinForm extends Component {
     }
 }
 
-export default RegistratinForm;
+export default AvailableAccomadation;

@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import './App.css';
 // import Login from "./Login";
-import RegistrationForm from "./RegistrationForm"
-import AccommodationRegistrationForm from "./AccommodationRegistrationForm";
 
+import AvailableAccomadation from "./AvailableAccomadation"
+
+=
 
 
 class App extends Component {
@@ -14,7 +15,7 @@ class App extends Component {
 
             <div className="container">
 
-            <AccommodationRegistrationForm/>
+                <AvailableAccomadation/>
             </div>
 
         );
