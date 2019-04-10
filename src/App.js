@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 // import Login from "./Login";
-import RegistrationForm from "./RegistrationForm"
+import AvailableAccomadation from "./AvailableAccomadation"
 
 
 
@@ -11,7 +11,7 @@ class App extends Component {
 
             <div className="container">
 
-                <RegistrationForm/>
+                <AvailableAccomadation/>
             </div>
         );
     }
