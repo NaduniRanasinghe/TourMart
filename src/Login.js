@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link, NavLink } from 'react-router-dom';
 import SignUpForm from './pages/SignUpForm';
 import SignInForm from './pages/SignInForm';
+import logo1 from './images/image3.png';
 
 import './App.css';
 
@@ -10,7 +11,12 @@ class Login extends Component {
         return (
             <Router basename="/TourMart.lk/">
                 <div className="App">
-                    <div className="App__Aside"></div>
+                    <div className="App__Aside">
+                        <div className="App_Inside1">
+
+                                <img src={logo1} alt="Logo1" />;
+                        </div>
+                    </div>
                     <div className="App__Form">
                         <div className="PageSwitcher">
                             <NavLink to="/sign-in" activeClassName="PageSwitcher__Item--Active" className="PageSwitcher__Item">Sign In</NavLink>
