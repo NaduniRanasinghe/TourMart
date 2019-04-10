@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
 
+
 class SignInForm extends Component {
     constructor() {
         super();
@@ -27,19 +28,18 @@ class SignInForm extends Component {
 
     handleSubmit(e) {
         e.preventDefault();
-
         console.log('The form was submitted with the following data:');
         console.log(this.state);
+
+        this.props.history.push('../ServiceProviders');
+
     }
-    routeChange() {
-        let path = `C:\\Users\\NADUNI RANASINGHE\\WebstormProjects\\smarttour\\src\\pages\\AccomodationRegistration.js`;
-        this.props.history.push(path);
-    }
+
 
     render() {
         return (
             <div className="FormCenter">
-                <form onSubmit={this.routeChange} className="FormFields" onSubmit={this.routeChange}>
+                <form onSubmit={this.handleSubmit.bind(this)} className="FormFields" onSubmit={this.handleSubmit}>
                     <div className="FormField">
                         <label className="FormField__Label" htmlFor="email">E-Mail Address</label>
                         <input type="email" id="email" className="FormField__Input" placeholder="Enter your email" name="email" value={this.state.email} onChange={this.handleChange} />
@@ -51,7 +51,7 @@ class SignInForm extends Component {
                     </div>
 
                     <div className="FormField">
-                        <button className="FormField__Button mr-20">Sign In</button> <Link to="/" className="FormField__Link">Create an account</Link>
+                        <button className="FormField__Button mr-20">Sign In</button> <Link to="/sign-up" className="FormField__Link">Create an account</Link>
                     </div>
                 </form>
             </div>
