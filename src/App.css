@@ -3,6 +3,11 @@
   display: flex;
   color: white;
 }
+.App__Aside2{
+  margin-top: 2px;
+  margin-left: 100px;
+
+}
 
 .App__Aside {
   width: 50%;

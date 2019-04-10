@@ -9,11 +9,14 @@ import './App.css';
 class Login extends Component {
     render() {
         return (
-            <Router basename="/react-auth-ui/">
+            <Router basename="/TourMart.lk/">
                 <div className="App">
-                    <div className="App__Aside">
-                        <div className="App_Inside1">
 
+                    <div className="App__Aside">
+                        <div className="App__Aside2">
+                            <h1>Welcome to TourMart.lk </h1>
+                        </div>
+                        <div className="App_Inside1">
                                 <img src={logo1} alt="Logo1" />;
                         </div>
                     </div>
