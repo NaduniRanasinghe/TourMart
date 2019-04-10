@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-class AccomodationRegistration extends Component {
+class TourGuideRegistration extends Component {
     constructor() {
         super();
 
@@ -95,4 +95,4 @@ class AccomodationRegistration extends Component {
     }
 }
 
-export default AccomodationRegistration;
+export default TourGuideRegistration;
